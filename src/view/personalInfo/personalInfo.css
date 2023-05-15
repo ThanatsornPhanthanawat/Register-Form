@@ -1,0 +1,14 @@
+.personalInfo-class{
+    width: 600px;
+    text-align: center;
+}
+
+
+.personalInfo-card{
+    height: 700px;
+    text-align: center !important;
+}
+
+.btn-class{
+    margin-top: 50px;
+}
